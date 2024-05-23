@@ -1,0 +1,1 @@
+# subract-1-from-string-length
